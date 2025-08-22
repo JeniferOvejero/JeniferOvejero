@@ -22,6 +22,5 @@
 <div>
   <a href = "mailto:jenifersofiaovejero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href = "https://www.linkedin.com/in/jenifer-sofia-ovejero-3856a0234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href = "https://jeniferovejero.github.io/portfolio/"><img height="28" alt="image" src="https://github.com/user-attachments/assets/ffd0f179-fcb1-4504-85c4-2525592ef7cf" />
-</a>
+  <a href = "https://jeniferovejero.github.io/portfolio/"><img height="28" alt="image" src="https://github.com/user-attachments/assets/ffd0f179-fcb1-4504-85c4-2525592ef7cf"/></a>
 </div>
